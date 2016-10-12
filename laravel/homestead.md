@@ -1,10 +1,10 @@
-# Lalavel Homestead 세팅
+# Laravel Homestead 세팅
 
-[Lalavel Homestead](https://laravel.com/docs/5.3/homestead)
+[Laravel Homestead](https://laravel.com/docs/5.3/homestead)
 
 ## Introduction
 
-Lalavel Homestead는 개발용 Vagrant box.
+Laravel Homestead는 개발용 Vagrant box.
 
 포함된 Software
 - Ubuntu 16.04
@@ -35,7 +35,7 @@ Lalavel Homestead는 개발용 Vagrant box.
 #### Installing Homestead
 
 repository를 clone해서 home directory에 설치.
-그러면 모든 Lalavel project를 지원.
+그러면 모든 Laravel project를 지원.
 
 ### Configuring Homestead
 
